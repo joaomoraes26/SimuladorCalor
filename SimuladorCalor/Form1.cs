@@ -1,4 +1,8 @@
+// DUPLA --->   João Vitor Moraes  & André Dalvi
+
+
 namespace SimuladorCalor
+
 {
     public partial class Form1 : Form
     {
